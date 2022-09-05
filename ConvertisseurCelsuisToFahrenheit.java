@@ -59,17 +59,3 @@ public class ConvertisseurCelsuisToFahrenheit {
 
     }
 }
-
-/*
- * 
- * // conversion celsuis vers Fahrenheit
- * double degreCelsuis= 29;
- * double resF = (degreCelsuis*1.8+32);
- * System.out.println(resF);
- * 
- * // conversion Fahrenheit vers Celsuis
- * double degrefahrenheit = 69;
- * double resC = (degrefahrenheit - 32)*5/9;
- * System.out.println(resC);
- * 
- */
